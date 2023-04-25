@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+ .div-yellow {
+  background-color: rgb(102, 102, 74);
+ }
